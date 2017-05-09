@@ -4,6 +4,11 @@
 
 This project is built with SpectacleJS. The Spectacle core API is available at [https://github.com/FormidableLabs/spectacle/blob/master/README.markdown](https://github.com/FormidableLabs/spectacle/blob/master/README.markdown).
 
+## Getting Started
+
+- You must have NodeJS >= 6.9, and Yarn
+- `yarn install`
+
 ## Development
 
 To start up the local server, run `npm start`
